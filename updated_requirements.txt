@@ -1,0 +1,17 @@
+pdf2image
+pillow
+chromadb
+langchain-community
+langchain_huggingface
+sentence-transformers
+langgraph
+python-dotenv
+json-repair
+langchain-chroma
+langchain-ollama
+langchain-core
+langchain_experimental
+transformers>=4.37.0
+torch>=2.0.0
+accelerate
+qwen-vl-utils
